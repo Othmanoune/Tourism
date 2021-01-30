@@ -55,6 +55,8 @@
 	</dependencies>
 
 	<build>
+	
+	<finalName>Tourism-docker</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
